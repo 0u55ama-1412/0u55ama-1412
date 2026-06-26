@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Just%20a%20human%2E%20Being)
-
 <div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Just%20a%20human%2E%20Being)
 
 <a href="https://tryhackme.com/p/CriticalKid1412"><img src="https://img.shields.io/badge/TryHackMe-SegFaults11-red?style=plastic&logo=tryhackme&logoColor=white" height="28"/></a>
 <a href="https://profile.hackthebox.com/profile/019cdfab-488f-70c7-9bbd-52d5e11dd051"><img src="https://img.shields.io/badge/HackTheBox-0u55ama1337-9FEF00?style=plastic&logo=hackthebox&logoColor=black" height="28"/></a>
