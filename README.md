@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=It%27s+You+VS+You)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hello%20Friend)
 
 ---
 
