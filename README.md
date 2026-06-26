@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hello%20Friend)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Just%20a%20human%2E%20Being)
 
 ---
 
